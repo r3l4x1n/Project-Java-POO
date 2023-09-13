@@ -7,4 +7,4 @@ El archivo Main.java es el punto de entrada de la aplicación. Sirve como el pro
 información sobre las reservas y almacenarla utilizando varias clases, como Oferta, Reserva y Usuario.
 
 ## Pruebas de Cobertura
-![](https://github.com/r3l4x1n/Project-Java-POO/blob/master/Captura.PNG)
+![](https://github.com/r3l4x1n/Project-Java-POO/blob/master/img/Captura.PNG)
