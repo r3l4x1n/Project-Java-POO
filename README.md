@@ -1,5 +1,5 @@
 # Project-Java-POO
-Este repositorio contiene una aplicación Java para gestionar reservas. 
+Este repositorio contiene una "aplicación" Java para gestionar reservas. 
 La aplicación permite a los usuarios ingresar información sobre una reserva, incluyendo detalles del usuario, fechas de reserva y detalles de la oferta.
 
 ## Propósito
@@ -7,4 +7,4 @@ El archivo Main.java es el punto de entrada de la aplicación. Sirve como el pro
 información sobre las reservas y almacenarla utilizando varias clases, como Oferta, Reserva y Usuario.
 
 ## Pruebas de Cobertura
-![]()
+![](https://github.com/r3l4x1n/Project-Java-POO/blob/master/Captura.PNG)
